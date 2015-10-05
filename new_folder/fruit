@@ -1,6 +1,6 @@
 function banana
 
-test if banana is a fruit (it is!)
+test if banana is a fruit (it is!) 123
 
 function grape
 	do grape stuff
